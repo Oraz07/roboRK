@@ -1,0 +1,24 @@
+{
+  "troops": [
+    {
+      "name": "dragon",
+      "level": 5,
+      "count": 1
+    },
+    {
+      "name": "warden",
+      "level": 3,
+      "count": 5
+    },
+    {
+      "name": "warden",
+      "level": 3,
+      "count": 5
+    },
+    {
+      "name": "soldier",
+      "level": 3,
+      "count": 5
+    }
+  ]
+}
